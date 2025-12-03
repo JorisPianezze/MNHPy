@@ -1,4 +1,6 @@
-# Horizontal cross section
+# MNHPy
+
+## Horizontal cross section
 
 | Plot 1 | Plot 2 | Plot 3 | Plot 4 |
 | ----   | ----   | ----   | ----   |
