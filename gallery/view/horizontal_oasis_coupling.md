@@ -1,6 +1,6 @@
-## Plot 1
+## Plot 2
 
-![plot1.png](../figures/plot1.png)
+![horizontal_oasis_coupling.png](../figures/horizontal_oasis_coupling.png)
 
 ````python
 #!/bin/python3
