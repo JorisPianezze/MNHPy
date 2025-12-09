@@ -4,13 +4,9 @@
 
 ## Read Meso-NH outputs
 
-| Single file | Multiple file |
-| ----   | ----   |
-| [View source](gallery/view/single_file.md) |[View source](gallery/view/multiple_file.md) |
-
-| Diachronic file | Full doc |
-| ----   | ----   |
-| [View source](gallery/view/diachronic_file.md) |[View source](gallery/view/full_doc.md) |
+| Single file | Multiple file | Diachronic file | Full doc |
+| ----   | ----   | ----   | ----   |
+| [View source](gallery/view/single_file.md) |[View source](gallery/view/multiple_file.md) | [View source](gallery/view/diachronic_file.md) |[View source](gallery/view/full_doc.md) |
 
 ---
 
