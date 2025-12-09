@@ -7,6 +7,10 @@
 | ![XY_multisimple_GABLS1.png](gallery/figures/XY_multisimple_GABLS1.png) |![XY_lines_tseries_aircraft_AZF2M.png](gallery/figures/XY_lines_tseries_aircraft_AZF2M.png) |![XY_budget_terms.png](gallery/figures/XY_budget_terms.png) |![XY_lines_001_2Drelief.png](gallery/figures/XY_lines_001_2Drelief.png) |
 | [View source](gallery/view/plot1.md) |[View source](gallery/view/plot2.md) |[View source](gallery/view/plot1.md) |[View source](gallery/view/plot1.md) |
 
+| Plot 1 | Plot 2 |
+| ----   | ----   |
+| ![XY_multisimple_GABLS1.png](gallery/figures/XY_multisimple_GABLS1.png) |![XY_lines_tseries_aircraft_AZF2M.png](gallery/figures/XY_lines_tseries_aircraft_AZF2M.png) |
+| [View source](gallery/view/plot1.md) |[View source](gallery/view/plot2.md) |
 
 ## Horizontal cross section
 
